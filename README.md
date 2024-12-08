@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Type Skript**
 
-- 👨‍💻 All of my projects are available at [https://valerii-mykh.github.io/frontend-portfolio/](https://valerii-mykh.github.io/frontend-portfolio/)
+
 
 - 📫 How to reach me **valerii_mih@ukr.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valerii-mikhailenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valerii-mikhailenko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valerii-mikhailenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valerii-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
